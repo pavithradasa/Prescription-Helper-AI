@@ -13,6 +13,7 @@ It is an AI-powered application designed to help elderly users easily understand
 🎯 Designed for elderly ease-of-use with a clean interface
 
 🚀 How It Works
+
 The user uploads a photo of a medical prescription.
 
 The app uses EasyOCR to extract text from the image.
