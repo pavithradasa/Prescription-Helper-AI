@@ -2,7 +2,8 @@
 
 It is an AI-powered application designed to help elderly users easily understand their medical prescriptions. It extracts text from prescription images and provides a simple explanation of the contents using AI.
 
-🧠 Features
+🧠 Features:
+
 📷 Upload prescription images
 
 🔍 Optical Character Recognition (OCR) using EasyOCR
